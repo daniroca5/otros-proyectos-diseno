@@ -1,50 +1,55 @@
-# Otros proyectos de diseño
+# Proyectos de la universidad
 
-Más trabajos del Grado en Ingeniería en Diseño Industrial y Desarrollo de Producto (EUDI, Universidade da Coruña). Van de los ejercicios de composición de 1.º a la identidad corporativa y las aplicaciones de 3.º. Los proyectos grandes tienen su propio repositorio: [Barco Xouva](https://github.com/daniroca5/barco-xouva) y [Modelado 3D y CAE](https://github.com/daniroca5/modelado-3d-cae).
+Cursé tres años del **Grado en Ingeniería en Diseño Industrial y Desarrollo de Producto** en la Escuela Universitaria de Diseño Industrial (EUDI) de la Universidade da Coruña (2016-2020). Tengo **156 créditos ECTS aprobados** de los 240 del grado. Me formé en diseño de producto, ingeniería, modelado 3D y presentación de proyectos.
 
-## Máscara (Metodología del diseño, 1.º)
+Los proyectos grandes tienen su propio repositorio: [Barco Xouva](https://github.com/daniroca5/barco-xouva) y [Modelado 3D y CAE](https://github.com/daniroca5/modelado-3d-cae). Aquí van otros.
 
-El primer proyecto completo con método de diseño. El encargo era una **máscara que representase al cliente**, a partir de sus gustos y planes. El proceso fue:
+## Asignaturas aprobadas
 
-1. **Estudio del cliente** e imágenes de referencia.
-2. **Bocetos** a lápiz y digitales, con varias caras y expresiones.
-3. **Premaqueta en cartón pluma** para probar el tamaño, los volúmenes y cómo se sujeta.
-4. **Máscara final**, con planos superpuestos y piezas en relieve.
-5. **Paneles A3** que cuentan el proceso de principio a fin.
+| Formación básica | Obligatorias | Optativas |
+|---|---|---|
+| Fundamentos de Física | Fundamentos de Materiales para la Ingeniería | Informática Avanzada e Integración del Diseño en la Fabricación |
+| Física Aplicada a la Ingeniería | Ingeniería de Materiales | Diseño Industrial Actual *(notable)* |
+| Matemáticas I | Estadística | |
+| Matemáticas II | Diseño Básico | |
+| Informática Básica *(notable)* | Metodología del Diseño *(notable)* | |
+| Expresión Gráfica | Historia del Arte y del Diseño *(sobresaliente)* | |
+| Expresión Gráfica Aplicada | Historia del Diseño | |
+| Expresión Artística | Diseño Asistido por Ordenador *(notable)* | |
+| Técnicas de la Expresión Artística Aplicada | Análisis Asistido por Ordenador *(notable)* | |
+| | Proyectos de Diseño I, II y III | |
+| | Marketing *(notable)* | |
+| | Aspectos Económicos y Empresariales del Diseño | |
+| | Tecnologías de la Información y la Comunicación I | |
+
+## Máscara (Metodología del diseño)
+Una máscara que representa al cliente, a partir de sus gustos y planes. El proceso: bocetos, una premaqueta en cartón pluma para probar los volúmenes y la máscara final, contado en paneles A3.
 
 <p align="center"><img src="img/mascara-panel-desarrollo.jpg" width="49%" alt="Desarrollo de la máscara"> <img src="img/mascara-panel-2.jpg" width="49%" alt="Máscara final"></p>
-<p align="center"><img src="img/mascara-foto.jpg" width="30%" alt="Foto de la máscara terminada"></p>
+<p align="center"><img src="img/mascara-foto.jpg" width="28%" alt="Máscara terminada"></p>
 
-## Diseño básico (1.º)
+## App e identidad Percurs (Diseño y Producto)
+Identidad corporativa del grupo de diseño **Percurs**, que formamos en clase. **Mi parte fue la app móvil**: registro, perfil, ajustes, un calendario de proyectos y mensajes entre el equipo, con la paleta y la tipografía de la marca.
 
-Ejercicios de **lenguaje visual** que sirven de base para todo lo demás:
-
-- **Punto, línea y plano**: composiciones con los elementos mínimos. Aquí, un disco de vinilo hecho solo con circunferencias.
-- **Simple y complejo**: una figura descompuesta en formas simples y animada. Se acompañó de un **cómic** con *storyboard* a mano para contar la historia viñeta a viñeta.
-
-<p align="center"><img src="img/basico-simple-complejo.jpg" width="48%" alt="Simple y complejo"> <img src="img/basico-storyboard.jpg" width="30%" alt="Storyboard del cómic"> <img src="img/basico-punto-linea-plano.jpg" width="18%" alt="Punto, línea y plano"></p>
-
-## Identidad corporativa Percurs (Diseño y Producto, 3.º)
-
-Identidad del grupo de diseño **Percurs**, que formamos en clase: logotipo, papelería, tarjetas y paneles expositivos. **Mi parte fue la aplicación móvil**:
-- pantallas de registro, cuenta, perfil y ajustes;
-- un **calendario** de proyectos;
-- **mensajes** entre los miembros del equipo.
-
-Todo con la misma paleta azul y la tipografía de la identidad. Del boceto (*work in progress*) pasé al panel final.
-
-<p align="center"><img src="img/percurs-app.jpg" width="62%" alt="Panel de la app Percurs"> <img src="img/percurs-app-proceso.jpg" width="34%" alt="App en proceso"></p>
+<p align="center"><img src="img/percurs-app.jpg" width="62%" alt="Panel de la app"> <img src="img/percurs-app-proceso.jpg" width="34%" alt="App en proceso"></p>
 <p align="center"><img src="img/percurs-tarjeta.jpg" width="30%" alt="Tarjeta Percurs"></p>
 
-## Identidad corporativa BENenBICI (Diseño y Producto)
+## Identidad BENenBICI (Diseño y Producto)
+Propuestas de identidad visual para el terminal de bicicletas: carta, sobre y tarjetas. El módulo y sus renders están en [Modelado 3D](https://github.com/daniroca5/modelado-3d-cae).
 
-En el proyecto del **terminal de bicicletas** para una empresa colaboradora, hice propuestas de **identidad visual** del producto: la marca *BENenBICI* aplicada a carta, sobre y tarjetas de visita, con un verde suave y un trazo de bicicleta como recurso gráfico. El módulo del terminal y sus renders están en [Modelado 3D](https://github.com/daniroca5/modelado-3d-cae).
+<p align="center"><img src="img/benenbici-identidad.jpg" width="42%" alt="Papelería BENenBICI"></p>
 
-<p align="center"><img src="img/benenbici-identidad.jpg" width="45%" alt="Papelería BENenBICI"></p>
+## Vajillas para Sargadelos (Proyectos de Diseño II)
+Tres líneas de vajilla (escritorio, vikinga y zen) para la cerámica gallega, con documentación, paneles, planos y renders. Las imágenes están en [Modelado 3D](https://github.com/daniroca5/modelado-3d-cae).
 
-## Herramientas
+## Marketing
+Estudio del **valor de un producto**: un frigorífico para restaurantes con más capacidad, temperatura por balda, limpieza más fácil y una pantalla con lector de códigos para controlar la caducidad. Se analizaron sus fuentes de valor: funcional, técnica y estética.
 
-Photoshop, Illustrator e InDesign (gráfica y maquetación), SolidWorks, Rhino y KeyShot (3D), y lápiz y papel.
+## Informática básica
+Ejercicios de programación en **C++**: mi primer contacto con la programación, mucho antes de ASIR.
+
+## Análisis asistido por ordenador
+Cálculo por **elementos finitos** con SolidWorks Simulation: mallado, cargas, sujeciones y lectura de resultados.
 
 ---
 Daniel Roca Martínez · [Currículum](https://daniroca5.gamer.gd/cv/)
