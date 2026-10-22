@@ -24,19 +24,6 @@ Ejercicios de **lenguaje visual** que sirven de base para todo lo demás:
 
 <p align="center"><img src="img/basico-simple-complejo.jpg" width="48%" alt="Simple y complejo"> <img src="img/basico-storyboard.jpg" width="30%" alt="Storyboard del cómic"> <img src="img/basico-punto-linea-plano.jpg" width="18%" alt="Punto, línea y plano"></p>
 
-## Fotografía (Expresión artística, 2.º)
-
-Una serie de fotografías, cada una sobre un concepto y con una semana de plazo. Lo que se trabajó:
-- **composición**;
-- **luz**, también de noche;
-- **color**;
-- profundidad de campo.
-
-Los temas fueron un **objeto** (una pinza con rosca), **feminidad** (un frasco de perfume con luz roja), **masculinidad**, **el espacio de la escuela** y **serenidad** (una calle de noche).
-
-<p align="center"><img src="img/foto-objeto.jpg" width="24%" alt="Objeto"> <img src="img/foto-feminidad.jpg" width="36%" alt="Feminidad"> <img src="img/foto-masculinidad.jpg" width="36%" alt="Masculinidad"></p>
-<p align="center"><img src="img/foto-eudi.jpg" width="40%" alt="Espacio EUDI"> <img src="img/foto-serenidad.jpg" width="40%" alt="Serenidad"></p>
-
 ## Identidad corporativa Percurs (Diseño y Producto, 3.º)
 
 Identidad del grupo de diseño **Percurs**, que formamos en clase: logotipo, papelería, tarjetas y paneles expositivos. **Mi parte fue la aplicación móvil**:
@@ -57,7 +44,7 @@ En el proyecto del **terminal de bicicletas** para una empresa colaboradora, hic
 
 ## Herramientas
 
-Photoshop, Illustrator e InDesign (gráfica y maquetación), SolidWorks, Rhino y KeyShot (3D), cámara réflex y lápiz y papel.
+Photoshop, Illustrator e InDesign (gráfica y maquetación), SolidWorks, Rhino y KeyShot (3D), y lápiz y papel.
 
 ---
 Daniel Roca Martínez · [Currículum](https://daniroca5.gamer.gd/cv/)
